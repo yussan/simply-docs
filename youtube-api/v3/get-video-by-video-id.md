@@ -2,13 +2,15 @@
 This is api docs to get data video by video id on Youtube Api V3. 
 Reference : https://developers.google.com/youtube/v3/docs/videos/list
 
-## Host : https://www.googleapis.com/youtube/v3/videos
-## Method : GET
-## Query parameters :
+
+## Request
+### Host : https://www.googleapis.com/youtube/v3/videos
+### Method : GET
+### Query parameters :
 - key : <string> your_key (required)
 - id : <string> youtube_video_id
 
-## Sample Request
+### Sample Request
 ```
 https://www.googleapis.com/youtube/v3/videos?id=ZF6Su4sl4Lw&key=<YOUR_KEY>&part=snippet,statistics
 ```
