@@ -15,7 +15,9 @@ Reference : https://developers.google.com/youtube/v3/docs/videos/list
 https://www.googleapis.com/youtube/v3/videos?id=ZF6Su4sl4Lw&key=<YOUR_KEY>&part=snippet,statistics
 ```
 
-## Sample Response
+## Response
+#### Type data : JSON
+### Sample Response
 ```
 {
     "kind": "youtube#videoListResponse",
