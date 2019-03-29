@@ -9,6 +9,7 @@ Reference : https://developers.google.com/youtube/v3/docs/videos/list
 #### Query parameters :
 - key : <string> your_key (required), generate it via Google Console https://console.cloud.google.com/
 - id : <string> youtube_video_id
+- part : <string> combination / one of : "snippet,statistics"    
 
 ### Sample Request
 ```
