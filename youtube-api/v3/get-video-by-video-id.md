@@ -4,7 +4,7 @@ Reference : https://developers.google.com/youtube/v3/docs/videos/list
 
 
 ## Request
-#### Host : https://www.googleapis.com/youtube/v3/videos
+#### Endpoint : https://www.googleapis.com/youtube/v3/videos
 #### Method : GET
 #### Query parameters :
 - key : <string> your_key (required), generate it via Google Console https://console.cloud.google.com/
