@@ -13,7 +13,7 @@ This is api docs to get data video by video id on Youtube Api V3.
 Reference : https://developers.google.com/youtube/v3/docs/videos/list
 
 ## Request
-#### Host : https://api.host.com
+#### Endpoint : https://api.host.com/v1/target
 #### Method : GET
 #### Query parameters :
 - param1 = <number> 1 until 10
